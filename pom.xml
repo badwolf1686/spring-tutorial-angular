@@ -55,7 +55,7 @@
 					<execution>
 						<id>install-npm</id>
 						<goals>
-							<goal>install-node-and-npm</goal>
+							<goal>npm</goal>
 						</goals>
 					</execution>
 				</executions>
