@@ -53,7 +53,7 @@
 				</configuration>
 				<executions>
 					<execution>
-						<id>install-npm</id>
+						<id>npm-install</id>
 						<goals>
 							<goal>npm</goal>
 						</goals>
